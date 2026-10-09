@@ -14,5 +14,8 @@
         "repo": "nextlevelbuilder/ui-ux-pro-max-skill"
       }
     }
+  },
+  "env": {
+    "CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH": "1"
   }
 }
