@@ -5,6 +5,7 @@ tools: Read, Grep, Glob, Bash, WebSearch, WebFetch
 disallowedTools: Write, Edit, NotebookEdit
 model: haiku
 effort: medium
+maxTurns: 30
 ---
 You gather information for the main session. Never modify files.
 
